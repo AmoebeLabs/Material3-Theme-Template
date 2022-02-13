@@ -1,6 +1,7 @@
 
-<!--- ![beta_badge](https://img.shields.io/badge/State-Beta-orange?style=for-the-badge) -->
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+[![hacs][hacs-badge]][hacs-url]
+[![release][release-badge]][release-url]
+![downloads][downloads-badge]
 
 # Material 3 Theme for Home Asistant: Template <!--- #07, Dark Olive Green -->
 
@@ -54,3 +55,16 @@ Note that the card background in the light theme is white instead of the lightes
 
 ![m3-07-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
 
+<!-- Badges -->
+
+[hacs-url]: https://github.com/custom-components/hacs
+[hacs-badge]: https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge
+[release-badge]: https://img.shields.io/github/v/release/AmoebeLabs/HA-Theme_M3-Template?style=for-the-badge
+[downloads-badge]: https://img.shields.io/github/downloads/AmoebeLabs/HA-Theme_M3-Template/total?style=for-the-badge
+
+<!-- References -->
+
+[home-assistant]: https://www.home-assistant.io/
+[home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
+[hacs]: https://hacs.xyz
+[release-url]: https://github.com/AmoebeLabs/HA-Theme_M3-Template/releases
