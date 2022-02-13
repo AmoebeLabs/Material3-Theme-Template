@@ -36,7 +36,7 @@ frontend:
 The theme will be automatically available once you have reloaded the themes using the Home Assistant 'Developer Tools' > 'Services' > 'frontend.reload_themes' service.
 
 ## Theme Preview:
-Below the definition of the theme, generated and displayed using the Swiss Army Knife custom card for Home Assistant (NYR).
+Below the definition of the theme, generated and displayed using the [Swiss Army Knife custom card for Home Assistant][sak-docs-url] (NYR).
 
 ![m3-07-palettes](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-palettes.png)
 
@@ -47,7 +47,7 @@ Below the definition of the theme, generated and displayed using the Swiss Army 
 ![m3-07-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-dark.png)
 
 ## Some real-world screenshots:
-A Light and Dark example made with the Swiss Army Knife custom card.
+A Light and Dark example made with the [Swiss Army Knife custom card][sak-docs-url].
 
 Note that the card background in the light theme is white instead of the lightest theme background. Will be corrected...
 
@@ -68,3 +68,4 @@ Note that the card background in the light theme is white instead of the lightes
 [home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
 [hacs]: https://hacs.xyz
 [release-url]: https://github.com/AmoebeLabs/HA-Theme_M3-Template/releases
+[sak-docs-url]: https://swiss-army-knife.docs.amoebelabs.com
