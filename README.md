@@ -38,22 +38,22 @@ The theme will be automatically available once you have reloaded the themes usin
 ## Theme Preview:
 Below the definition of the theme, generated and displayed using the Swiss Army Knife custom card for Home Assistant (NYR).
 
-![m3-07-palettes](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/preview/m3-theme-07-palettes.png)
+![m3-07-palettes](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-palettes.png)
 
-![m3-07-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/preview/m3-theme-07-surfaces.png)
+![m3-07-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-surfaces.png)
 
-![m3-07-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/preview/m3-theme-07-light.png)
+![m3-07-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-light.png)
 
-![m3-07-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/preview/m3-theme-07-dark.png)
+![m3-07-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-dark.png)
 
 ## Some real-world screenshots:
 A Light and Dark example made with the Swiss Army Knife custom card.
 
 Note that the card background in the light theme is white instead of the lightest theme background. Will be corrected...
 
-![m3-07-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-light%20Detail.png)
+![m3-07-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-light%20Detail.png)
 
-![m3-07-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/main/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
+![m3-07-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
 
 <!-- Badges -->
 
