@@ -1,7 +1,7 @@
 #
 # Theme     : m3-xx-yyyy.yaml
 # Project   : Home Assistant
-# Repository: https://github.com/AmoebeLabs/HA-Theme_M3-07-DarkOliveGreen
+# Repository: https://github.com/AmoebeLabs/HA-Theme_M3-Template
 #
 # Author    : Mars @ AmoebeLabs.com
 # 
@@ -10,9 +10,6 @@
 # -----
 # Description:
 #   Dark / Light theme based on Material 3 for Home Assistant.
-#
-# According to: https://encycolorpedia.com/526600
-#   - Dark Olive Green
 #   
 ###############################################################################
 #
@@ -720,7 +717,7 @@ M3-XX-Yyyy:
   primary-text-color: var(--theme-sys-ha-primary-text-color)
   secondary-text-color: var(--theme-sys-ha-secondary-text-color)
   text-primary-color: var(--theme-text-primary-color-on-dark)
-  text-light-primary-color:  var(--theme-sys-ha-primary-text-color)
+  # text-light-primary-color:  var(--theme-sys-ha-primary-text-color)
   disabled-text-color: var(--theme-sys-ha-disabled-text-color)
 
   # main interface colors
