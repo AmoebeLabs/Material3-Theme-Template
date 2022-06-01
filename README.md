@@ -72,3 +72,5 @@ Note that the card background in the light theme is white instead of the lightes
 [hacs]: https://hacs.xyz
 [release-url]: https://github.com/AmoebeLabs/HA-Theme_M3-Template/releases
 [sak-docs-url]: https://swiss-army-knife.docs.amoebelabs.com
+[ham3-docs-examples-url]: https://ha-m3-themes.docs.amoebelabs.com/examples/introduction/
+[ham3-docs-howtouse-url]: https://ha-m3-themes.docs.amoebelabs.com/using/using-ham3-in-cards/
