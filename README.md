@@ -21,6 +21,9 @@ The theme also defines some Neumorphic shadow colors for dark and light mode.
 
 For beta documentation: see https://ha-m3-themes.docs.amoebelabs.com/
 
+For more theme examples, check [the overview of all the 22 examples][ham3-docs-examples-url]
+<br>And to implement them in your cards: look at [how to use these Material 3 themes in a Home Assistant card][ham3-docs-howtouse-url]
+
 ## Installation via HACS
 This Theme is in the default theme repository of HACS
 
