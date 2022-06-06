@@ -36,10 +36,10 @@ frontend:
   themes: !include_dir_merge_named themes/
 ```
 
-The theme will be automatically available once you have reloaded the themes using the Home Assistant 'Developer Tools' > 'Services' > 'frontend.reload_themes' service.
+The theme will be automatically available once you have reloaded the themes using the Home Assistant `Developer Tools` > `Services` > `frontend.reload_themes` service.
 
 ## Theme Preview:
-Below the definition of the theme, generated and displayed using the [Swiss Army Knife custom card for Home Assistant][sak-docs-url] (NYR).
+Below the definition of the theme, generated and displayed using the [Swiss Army Knife custom card for Home Assistant][sak-docs-url].
 
 ![m3-07-palettes](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-palettes.png)
 
@@ -61,9 +61,9 @@ Note that the card background in the light theme is white instead of the lightes
 <!-- Badges -->
 
 [hacs-url]: https://github.com/hacs/integration
-[hacs-badge]: https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge
-[release-badge]: https://img.shields.io/github/v/release/AmoebeLabs/HA-Theme_M3-Template?style=for-the-badge
-[downloads-badge]: https://img.shields.io/github/downloads/AmoebeLabs/HA-Theme_M3-Template/total?style=for-the-badge
+[hacs-badge]: https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge&logo=homeassistantcommunitystore
+[release-badge]: https://img.shields.io/github/v/release/AmoebeLabs/HA-Theme_M3-Template?style=for-the-badge&logo=github
+[downloads-badge]: https://img.shields.io/github/downloads/AmoebeLabs/HA-Theme_M3-Template/total?style=for-the-badge&logo=github
 
 <!-- References -->
 
