@@ -760,7 +760,7 @@ M3-XX-Yyyy:
   # Define some of the rgb-* colors to make checkboxes and more work with dark/light mode
   # I assumed that these rgb-* variants would be calculated automatically ?!?!?!?!
   # ----------------------------------------------------------------------------
-  rgb-primary-color: rgb(var(--primary-color))
+#   rgb-primary-color: rgb(var(--primary-color))
   rgb-accent-color: rgb(var(--accent-color))
   rgb-primary-text-color: rgb(var(--primary-text-color))
   rgb-secondary-text-color: rgb(var(--secondary-text-color))
